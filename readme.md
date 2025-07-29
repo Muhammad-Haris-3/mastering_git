@@ -1,4 +1,6 @@
-## Hello, Git!
+## Heyooo Welcome to eveyone in my new guide on git hub!
+
+- Yo Jhonny here!
 
 ## Adding this "Feature" from uiBranch
 
