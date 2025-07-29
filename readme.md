@@ -1,4 +1,4 @@
-## Heyooo Welcome to eveyone in my new guide on git hub!
+## Welcome To Git!
 
 - Yo Jhonny here!
 
